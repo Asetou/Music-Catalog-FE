@@ -12,9 +12,9 @@ Catalog Product Spec: https://docs.google.com/document/d/1-E8TAoCcJTpWoUL1Yy4Egl
 
 If you want to be able to replicate this project, then the instructions below should help.
  
-Front-end: https://github.com/catalogTeam/CatalogRepoFE
+Front-end: https://github.com/Asetou/Music-Catalog-FE
 
-Back-end: https://github.com/colewarner24/CatalogRepoBackend
+Back-end: https://github.com/Asetou/Music-Catalog-BE
 
 To run this locally, all you need to do is download both repositories and run them individually.
 
