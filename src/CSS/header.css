@@ -1,0 +1,45 @@
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: rgb(4, 139, 117) !important;
+}
+
+.profileheader {
+  color: black;
+  font-family: "Times New Roman";
+}
+
+.linkheader {
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+.biodescription {
+  font-family: "Times New Roman";
+  color: white;
+  margin: 0.5em;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* background-image: url("./background/galaxy.jpg"); */
+  background-color: rgb(4, 139, 117);
+
+  font-family: "Times New Roman";
+}
+
+.headertext {
+  color: grey;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+@media (min-width: 1px) {
+  .navbar li {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+  }
+}
