@@ -4,9 +4,7 @@
 
 Developed with NODE js, Express, MongoDB, and calls to the SpotifyAPI.
 
-Catalog Product Spec: https://docs.google.com/document/d/19jHN31FKUMMZ6EW8DFhTgSvYol8LVn-j9hdNSQfbLMQ/edit?usp=sharing
-
-Updated Product Spec: https://docs.google.com/document/d/1ogO4qJQe5q4V0Pby3Te-ghBrWuaUdyLSyqtJD5cvtKU/edit
+Catalog Product Spec: https://docs.google.com/document/d/1-E8TAoCcJTpWoUL1Yy4Eglq6GvtR_4EEz8zsNsR1deQ/edit?usp=sharing
 
 ***(based on requirements, scroll down to see the updated asepcts of the project)***
 
